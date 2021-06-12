@@ -66,4 +66,29 @@ export const GlobalStyle = createGlobalStyle`
         opacity: 0.6;
         cursor: not-allowed;
     }
+
+    .react-modal-overlay {
+        background: rgba(0, 0, 0, 0.5);
+        // always in the same position, even if the user scrolls the page
+        position: fixed;
+        // occupies the entire screen
+        top: 0;
+        bottom: 0;
+        right: 0;
+        left: 0;
+        // https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .react-modal-content {
+        // the width is the max(pageWidth, 576pc)
+        width: 100%;
+        max-width: 576px;
+        background: var(--background);
+        padding: 3rem;
+        position: relative;
+        border-radius: 0.25rem;
+    }
 `

@@ -5,12 +5,13 @@
 <h1 align="center">dt money</h1>
 
 <p align="center">
+  <p align="center">Rocketseat - Ignite - <strong>Chapter II</strong></p>
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-installation-and-execution">Installation and execution</a>
 </p>
 
 ## 🔥 About the project
-This is the second React project developed watching the Ignite's Rocketseat course by @diego3g. This is a personal finance app where the user can visualize his/her sources of income, expenses, and the final balance to see if he/she is on profit or debt. The user can also add financial transactions with its name, value, type (gain/loss), and category. In this project I learned and practiced a lot of important concepts including: 
+This is a personal finance app where the user can visualize his/her sources of income, expenses, and the final balance to see if he/she is on profit or debt. The user can also add financial transactions with its name, value, type (gain/loss), and category. In this project I learned and practiced a lot of important concepts including: 
 - Applying **CSS-in-JS** with the `styled-components` library to create styled components
 - Using `MirageJS` to mock APIs and create a fully functional front-end withou having to rely on backend services
 - Creating a modal

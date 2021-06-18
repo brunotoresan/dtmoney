@@ -4,7 +4,7 @@ import { GlobalStyle } from "./styles/global";
 import { Header } from "./components/Header"
 import { Dashboard } from "./components/Dashboard";
 import { NewTransactionModal } from "./components/NewTransactionModal"
-import { TransactionsProvider } from './TransactionsContext';
+import { TransactionsProvider } from './hooks/useTransactions';
 
 // https://reactcommunity.org/react-modal/accessibility/
 Modal.setAppElement('#root')

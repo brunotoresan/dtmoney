@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="70%" src="https://imgur.com/JpoHDeI.png" alt="Project Image"/>
+    <img width="70%" src="https://imgur.com/a/dQ7TxAs.png" alt="Project Image"/>
 </p>
 
 <h1 align="center">dt money</h1>

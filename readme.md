@@ -15,7 +15,7 @@ This is a personal finance app where the user can visualize his/her sources of i
 - Applying **CSS-in-JS** with the `styled-components` library to create styled components
 - Using `MirageJS` to mock APIs and create a fully functional front-end withou having to rely on backend services
 - Creating a modal
-- Configuring the `Axios` client HTTP to intercept API's requests/responses to change its data before it reaches the back-end
+- Configuring the `Axios` HTTP client to intercept API's requests/responses to change its data before it reaches the back-end
 - **Using React Context to share data between components**
 - Creating hooks to easily share contexts
 
